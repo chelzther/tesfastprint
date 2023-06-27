@@ -1,0 +1,11 @@
+{
+    "name": "chelz/tesfastprint",
+    "autoload": {
+        "psr-4": {
+            "Chelz\\Tesfastprint\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
